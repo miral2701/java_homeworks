@@ -1,1 +1,7 @@
-# java_homeworks
+Color — enum доступних кольорів
+Code — зберігає послідовність кольорів
+CodeGenerator — генерує випадковий секретний код
+Feedback — DTO з кількістю биків та корів
+FeedbackCalculator — обчислює бики та корови
+Game — логіка гри
+Main — точка входу, запуск гри
